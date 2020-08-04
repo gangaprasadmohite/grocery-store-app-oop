@@ -1,5 +1,5 @@
 require_relative "groceries"
-require_relative "index"
+require_relative "cart"
 
 
 class Cart
